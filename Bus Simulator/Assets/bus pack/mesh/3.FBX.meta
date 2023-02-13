@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: b35c7f84f5479a946b310a26ad457bfa
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bus body
+    100002: door
+    100004: door 2
+    100006: inside and glass
+    100008: neon
+    100010: //RootNode
+    100012: seat
+    100014: seat 2
+    100016: steering wheel
+    100018: steering wheel neon
+    100020: wheel
+    100022: wheel2
+    100024: wheel3
+    100026: wheel004
+    100028: wheel005
+    100030: wheel007
+    100032: wheel008
+    100034: wheel009
+    100036: Object001
+    100038: Object002
+    100040: Object003
+    400000: bus body
+    400002: door
+    400004: door 2
+    400006: inside and glass
+    400008: neon
+    400010: //RootNode
+    400012: seat
+    400014: seat 2
+    400016: steering wheel
+    400018: steering wheel neon
+    400020: wheel
+    400022: wheel2
+    400024: wheel3
+    400026: wheel004
+    400028: wheel005
+    400030: wheel007
+    400032: wheel008
+    400034: wheel009
+    400036: Object001
+    400038: Object002
+    400040: Object003
+    2300000: bus body
+    2300002: door
+    2300004: door 2
+    2300006: inside and glass
+    2300008: neon
+    2300010: seat
+    2300012: seat 2
+    2300014: steering wheel
+    2300016: steering wheel neon
+    2300018: wheel
+    2300020: wheel2
+    2300022: wheel3
+    2300024: wheel004
+    2300026: wheel005
+    2300028: wheel007
+    2300030: wheel008
+    2300032: wheel009
+    2300034: Object001
+    2300036: Object002
+    2300038: Object003
+    3300000: bus body
+    3300002: door
+    3300004: door 2
+    3300006: inside and glass
+    3300008: neon
+    3300010: seat
+    3300012: seat 2
+    3300014: steering wheel
+    3300016: steering wheel neon
+    3300018: wheel
+    3300020: wheel2
+    3300022: wheel3
+    3300024: wheel004
+    3300026: wheel005
+    3300028: wheel007
+    3300030: wheel008
+    3300032: wheel009
+    3300034: Object001
+    3300036: Object002
+    3300038: Object003
+    4300000: seat
+    4300002: door
+    4300004: steering wheel
+    4300006: seat 2
+    4300008: inside and glass
+    4300010: neon
+    4300012: wheel2
+    4300014: steering wheel neon
+    4300016: wheel
+    4300018: bus body
+    4300020: wheel3
+    4300022: door 2
+    4300024: wheel004
+    4300026: wheel005
+    4300028: wheel007
+    4300030: wheel008
+    4300032: wheel009
+    4300034: Object001
+    4300036: Object002
+    4300038: Object003
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

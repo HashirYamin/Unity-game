@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 51ee85154e194f141ba9dbc544d50e42
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bus body
+    100004: direksyon
+    100006: door1
+    100008: door2
+    100010: Group001
+    100012: headlight glass
+    100014: mirror
+    100016: neon
+    100018: Object025
+    100020: seat
+    100022: seat2
+    100024: wheel
+    100026: wheel2
+    100028: Object026
+    100030: Object027
+    400000: //RootNode
+    400002: bus body
+    400004: direksyon
+    400006: door1
+    400008: door2
+    400010: Group001
+    400012: headlight glass
+    400014: mirror
+    400016: neon
+    400018: Object025
+    400020: seat
+    400022: seat2
+    400024: wheel
+    400026: wheel2
+    400028: Object026
+    400030: Object027
+    2300000: bus body
+    2300002: direksyon
+    2300004: door1
+    2300006: door2
+    2300008: headlight glass
+    2300010: mirror
+    2300012: neon
+    2300014: Object025
+    2300016: seat
+    2300018: seat2
+    2300020: wheel
+    2300022: wheel2
+    2300024: Object026
+    2300026: Object027
+    3300000: bus body
+    3300002: direksyon
+    3300004: door1
+    3300006: door2
+    3300008: headlight glass
+    3300010: mirror
+    3300012: neon
+    3300014: Object025
+    3300016: seat
+    3300018: seat2
+    3300020: wheel
+    3300022: wheel2
+    3300024: Object026
+    3300026: Object027
+    4300000: neon
+    4300002: seat
+    4300004: direksyon
+    4300006: seat2
+    4300008: Object025
+    4300010: door2
+    4300012: wheel2
+    4300014: wheel
+    4300016: headlight glass
+    4300018: door1
+    4300020: bus body
+    4300022: mirror
+    4300024: Object026
+    4300026: Object027
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

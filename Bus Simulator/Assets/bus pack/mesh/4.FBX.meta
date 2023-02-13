@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: c44da20ce04056b4ba750fd1a8700e46
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 'bus body '
+    100002: door
+    100004: 'door2 '
+    100006: headlight glass
+    100008: inside and glass
+    100010: //RootNode
+    100012: mirror
+    100014: neon
+    100016: seat
+    100018: seat2
+    100020: seat3
+    100022: seat4
+    100024: steering wheel
+    100026: wheel
+    100028: wheel2
+    100030: wheel3
+    100032: Pickup_Truck_Wheel_Front_R006
+    100034: Pickup_Truck_Wheel_Front_R007
+    100036: Pickup_Truck_Wheel_Front_R008
+    100038: Object001
+    100040: Object002
+    100042: Object003
+    100044: wheel1
+    400000: 'bus body '
+    400002: door
+    400004: 'door2 '
+    400006: headlight glass
+    400008: inside and glass
+    400010: //RootNode
+    400012: mirror
+    400014: neon
+    400016: seat
+    400018: seat2
+    400020: seat3
+    400022: seat4
+    400024: steering wheel
+    400026: wheel
+    400028: wheel2
+    400030: wheel3
+    400032: Pickup_Truck_Wheel_Front_R006
+    400034: Pickup_Truck_Wheel_Front_R007
+    400036: Pickup_Truck_Wheel_Front_R008
+    400038: Object001
+    400040: Object002
+    400042: Object003
+    400044: wheel1
+    2300000: 'bus body '
+    2300002: door
+    2300004: 'door2 '
+    2300006: headlight glass
+    2300008: inside and glass
+    2300010: mirror
+    2300012: neon
+    2300014: seat
+    2300016: seat2
+    2300018: seat3
+    2300020: seat4
+    2300022: steering wheel
+    2300024: wheel
+    2300026: wheel2
+    2300028: wheel3
+    2300030: Pickup_Truck_Wheel_Front_R006
+    2300032: Pickup_Truck_Wheel_Front_R007
+    2300034: Pickup_Truck_Wheel_Front_R008
+    2300036: Object001
+    2300038: Object002
+    2300040: Object003
+    2300042: wheel1
+    3300000: 'bus body '
+    3300002: door
+    3300004: 'door2 '
+    3300006: headlight glass
+    3300008: inside and glass
+    3300010: mirror
+    3300012: neon
+    3300014: seat
+    3300016: seat2
+    3300018: seat3
+    3300020: seat4
+    3300022: steering wheel
+    3300024: wheel
+    3300026: wheel2
+    3300028: wheel3
+    3300030: Pickup_Truck_Wheel_Front_R006
+    3300032: Pickup_Truck_Wheel_Front_R007
+    3300034: Pickup_Truck_Wheel_Front_R008
+    3300036: Object001
+    3300038: Object002
+    3300040: Object003
+    3300042: wheel1
+    4300000: door
+    4300002: 'bus body '
+    4300004: seat4
+    4300006: mirror
+    4300008: steering wheel
+    4300010: seat2
+    4300012: seat3
+    4300014: wheel
+    4300016: neon
+    4300018: wheel3
+    4300020: wheel2
+    4300022: inside and glass
+    4300024: headlight glass
+    4300026: seat
+    4300028: 'door2 '
+    4300030: Pickup_Truck_Wheel_Front_R006
+    4300032: Pickup_Truck_Wheel_Front_R007
+    4300034: Pickup_Truck_Wheel_Front_R008
+    4300036: Object001
+    4300038: Object002
+    4300040: Object003
+    4300042: wheel1
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
